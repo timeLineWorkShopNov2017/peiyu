@@ -1,0 +1,7 @@
+.eventPoint {
+  position: absolute;
+  top: 160px;
+  height: 5px;
+  width: 10px;
+  background:#FFFFFF;
+}

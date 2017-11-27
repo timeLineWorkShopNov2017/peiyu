@@ -1,0 +1,16 @@
+.timelineContainer {
+  margin: 10px 20px 0;
+  width: 96%;
+  height: 75vh;
+  background: rgba(0, 0, 0, 0);
+  border: 1px solid rgba(0, 0, 0, 0);
+  overflow: hidden;
+}
+
+.horLine {
+  position: absolute;
+  top: 162px;
+  width: 102%;
+  height: 1px;
+  background-color: rgba(255, 255, 255, 0.35);
+}
